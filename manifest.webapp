@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "Keyboard API Demo",
+  "description": "Keyboard API Demo",
+  "launch_path": "/keyboard-api-demo/index.html",
+  "developer": {
+    "name": "Evan Xd",
+    "url": "https://evanxd.github.com/"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Keyboard API Demo",
+      "description": "A app for testing Keyboard API."
+    }
+  },
+  "default_locale": "en-US"
+}
