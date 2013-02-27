@@ -7,6 +7,9 @@
     "name": "Evan Xd",
     "url": "https://evanxd.github.com/"
   },
+  "permissions": {
+    "keyboard":{}
+  },
   "locales": {
     "en-US": {
       "name": "Keyboard API Demo",
