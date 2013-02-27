@@ -3,7 +3,6 @@ window.addEventListener('load', function pageOnload() {
 
   sendTextElement.addEventListener('click', function sendText() {
   	console.log('send text: Hello World!');
-  	var conn = navigator.mozInputMethodConnection;
-    conn.commitText('Hello World!');
+    navigator.mozKeyboard.commitText('Hello World!');
   }, false);
 }, false);
